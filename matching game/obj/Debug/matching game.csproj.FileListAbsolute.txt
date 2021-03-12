@@ -1,0 +1,20 @@
+D:\C#\matching game\matching game\bin\Debug\matching game.exe.config
+D:\C#\matching game\matching game\bin\Debug\matching game.exe
+D:\C#\matching game\matching game\bin\Debug\matching game.pdb
+D:\C#\matching game\matching game\obj\Debug\matching game.csprojAssemblyReference.cache
+D:\C#\matching game\matching game\obj\Debug\matching_game.Form1.resources
+D:\C#\matching game\matching game\obj\Debug\matching_game.Properties.Resources.resources
+D:\C#\matching game\matching game\obj\Debug\matching game.csproj.GenerateResource.cache
+D:\C#\matching game\matching game\obj\Debug\matching game.csproj.CoreCompileInputs.cache
+D:\C#\matching game\matching game\obj\Debug\matching game.exe
+D:\C#\matching game\matching game\obj\Debug\matching game.pdb
+D:\C#\windows apps\matching game\matching game\bin\Debug\matching game.exe.config
+D:\C#\windows apps\matching game\matching game\bin\Debug\matching game.exe
+D:\C#\windows apps\matching game\matching game\bin\Debug\matching game.pdb
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching game.csprojAssemblyReference.cache
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching_game.Form1.resources
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching_game.Properties.Resources.resources
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching game.csproj.GenerateResource.cache
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching game.csproj.CoreCompileInputs.cache
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching game.exe
+D:\C#\windows apps\matching game\matching game\obj\Debug\matching game.pdb
